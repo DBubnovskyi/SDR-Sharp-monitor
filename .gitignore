@@ -1,0 +1,14 @@
+SDRSharp.CollapsiblePanel/bin/
+SDRSharp.CollapsiblePanel/obj/
+SDRSharp.Common/bin/
+SDRSharp.Common/obj/
+SDRSharp.FrequencyEdit/bin/
+SDRSharp.FrequencyEdit/obj/
+SDRSharp.PanView/bin/
+SDRSharp.PanView/obj/
+SDRSharp.Radio/bin/
+SDRSharp.Radio/obj/
+SDRSharp/bin/
+SDRSharp/obj/
+SDRSharp.FrequencyEdit/.vs/
+.vs/

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>NOAA - Oxnard</Name>
+    <GroupName>Weather</GroupName>
+    <Frequency>162550000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>24390</FilterBandwidth>
+  </MemoryEntry>
+</ArrayOfMemoryEntry>
